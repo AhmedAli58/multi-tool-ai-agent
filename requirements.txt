@@ -1,8 +1,8 @@
-streamlit==1.43.2
-langchain==0.3.21
-langchain-groq==0.3.2
-langsmith==0.3.15
-langchain-community==0.3.20
-langchain-core==0.3.63
-requests==2.32.3
-python-dotenv==1.1.0
+streamlit
+langchain
+langchain-groq
+langsmith
+langchain-community
+langchain-core
+requests
+python-dotenv
